@@ -1,0 +1,8 @@
+arduino uno 
+flame sensors
+servo motor 
+arduino uno board
+motor pump
+chasi
+motor shild
+arduino ide
